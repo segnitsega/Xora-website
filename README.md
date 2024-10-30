@@ -12,9 +12,9 @@ Xora is a fully responsive, modern SaaS website designed for optimal user experi
 
 ## Tech Stack
 
-- **HTML5** and **CSS3**: For markup and styling.
+- **HTML5** and **Tailwind CSS**: For markup and styling.
 - **JavaScript**: Adds interactivity to the website.
-- **Responsive Framework**: CSS media queries ensure the site adapts to different screen sizes.
+- **Responsive Framework**: CSS media queries and Tailwind CSS utility classes ensure the site adapts to different screen sizes.
 - **Version Control**: Managed via Git.
 
 ## Visit the website:
